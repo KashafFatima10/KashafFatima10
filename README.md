@@ -93,17 +93,6 @@ Production-Ready AI Applications
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=transparent\&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
