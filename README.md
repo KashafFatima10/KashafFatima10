@@ -61,17 +61,12 @@
 🔹 **Agentic AI & AI Agents**
 🔹 **Advanced Full-Stack Development**
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KashafFatima10&show_icons=true&hide_border=true&theme=transparent" alt="Kashaf's GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KashafFatima10&hide_border=true&theme=transparent" alt="Kashaf's GitHub Streak" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KashafFatima10&hide_border=true&area=true)
 
 </div>
 
