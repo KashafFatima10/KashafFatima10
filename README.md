@@ -17,7 +17,7 @@
 ## 🌐 Connect with Me
 
 📧 **Email:** kashaffatimah10@gmail.com
-💼 **LinkedIn:** [Let's Connect]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kashaf-fatima-061424301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/kashaf-fatima-061424301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 💻 Tech Stack
 
@@ -63,17 +63,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=KashafFatima10&show_icons=true&hide_border=true&theme=transparent" alt="Kashaf's GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&hide_border=true\&theme=transparent)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KashafFatima10&hide_border=true&theme=transparent" alt="Kashaf's GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
 
 ### ✨ Thanks for visiting my profile!
 
