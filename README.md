@@ -9,6 +9,7 @@ I’m a Computer Science student passionate about building **web applications, A
 ## 👩‍💻 About Me
 
 * 🎓 Computer Science student
+* 💻 Intern @ systemslimited
 * 💻 Interested in **Full-Stack Web Development**
 * 🤖 Exploring **AI, LLMs, RAG & Agentic AI**
 * 🌱 Currently learning **LangChain, LangGraph & AI Agents**
@@ -108,8 +109,8 @@ Production-Ready AI Applications
 
 I'm always open to learning, collaborating and working on interesting projects.
 
-📧 **Email:** YOUR_EMAIL
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+📧 **Email:** kashaffatimah10@gmail.com
+💼 **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kashaf-fatima-061424301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
